@@ -1,4 +1,4 @@
-# Tulip
+# Homework Assignment
 
 Playwright test automation framework for Sauce Demo, built with strict TypeScript, ESLint, and Page Object Model patterns.
 
